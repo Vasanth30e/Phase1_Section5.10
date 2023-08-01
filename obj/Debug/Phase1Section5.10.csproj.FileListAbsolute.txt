@@ -1,0 +1,8 @@
+D:\Training\Assisted Projects\Pratice Projects\Object Oriented Programming System\Phase1Section5.10\Phase1Section5.10\bin\Debug\Phase1Section5.10.exe.config
+D:\Training\Assisted Projects\Pratice Projects\Object Oriented Programming System\Phase1Section5.10\Phase1Section5.10\bin\Debug\Phase1Section5.10.exe
+D:\Training\Assisted Projects\Pratice Projects\Object Oriented Programming System\Phase1Section5.10\Phase1Section5.10\bin\Debug\Phase1Section5.10.pdb
+D:\Training\Assisted Projects\Pratice Projects\Object Oriented Programming System\Phase1Section5.10\Phase1Section5.10\obj\Debug\Phase1Section5.10.csproj.AssemblyReference.cache
+D:\Training\Assisted Projects\Pratice Projects\Object Oriented Programming System\Phase1Section5.10\Phase1Section5.10\obj\Debug\Phase1Section5.10.csproj.SuggestedBindingRedirects.cache
+D:\Training\Assisted Projects\Pratice Projects\Object Oriented Programming System\Phase1Section5.10\Phase1Section5.10\obj\Debug\Phase1Section5.10.csproj.CoreCompileInputs.cache
+D:\Training\Assisted Projects\Pratice Projects\Object Oriented Programming System\Phase1Section5.10\Phase1Section5.10\obj\Debug\Phase1Section5.10.exe
+D:\Training\Assisted Projects\Pratice Projects\Object Oriented Programming System\Phase1Section5.10\Phase1Section5.10\obj\Debug\Phase1Section5.10.pdb
